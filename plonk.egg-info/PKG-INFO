@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: plonk
+Version: 0.0.1
+Summary: Python implementation for PLONK
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6,<4
+Provides-Extra: lint
+Provides-Extra: test
+Provides-Extra: tutorial
+License-File: LICENSE
+
+UNKNOWN
+

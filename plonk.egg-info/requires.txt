@@ -1,0 +1,13 @@
+ethsnarks==0.0.1
+py_ecc==1.4.0
+scipy>=1.4.1
+
+[lint]
+black>=19.10b0
+
+[test]
+nbval>=0.9.5
+pytest<6,>=5
+
+[tutorial]
+jupyter>=1.0.0
